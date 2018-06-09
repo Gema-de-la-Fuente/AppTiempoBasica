@@ -39,47 +39,4 @@ h1{
     cursor: pointer;
 }
 
-/*
-body {
-            font-family: verdana;
-            font-size: 18px;
-        }
-        .masInfo {
-            display: none;
-            background-color: #e7e7e7;
-        }
-        .contentDia {
-            border: 1px solid gray;
-            margin: 10px;
-        }
-        .contentDia.activo .masInfo {
-            display: block;
-        }
-        [textoDia-id] {
-            text-align: center;
-            cursor: pointer;
-        }
-*/
 
- /*Diego-------------------------*/
-/*
-body {
-    font-family: sans-serif;
-    font-size: 14px;
-}
-.masInfo{
-    display: none;
-    background-color: aqua;
-}
-.contentTime{
-     border: 1px solid black;
-     margin: 5%;
-}
-contentTime.activo .masInfo{
-    display: block;
-}
-[content-id]{
-    text-align: center;
-    cursor: pointer;
-}
-*/
