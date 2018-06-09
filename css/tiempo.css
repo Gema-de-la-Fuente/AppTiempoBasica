@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+h1{
+    text-align: center;
+}
+#titulo{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 3%;
+    color: gray;
+}
+#titulo span {
+    color: black;
+    border-bottom: 1px dotted black;
+}
+.masInfo {
+    display: none;
+    background-color: skyblue;
+    margin: 0%;
+}
+.contentDia {
+    border: 1px solid black;
+    margin: 5%;
+}
+.contentDia p{
+    font-size: 16px;
+    text-align: center;
+    padding-left: 3%;
+}
+.contentDia.activo .masInfo {
+    display: block;
+    padding: 5% 10% 5% 8%;
+    margin: 0%;
+}
+.textoDia {
+    text-align: center;
+    cursor: pointer;
+}
+
+/*
+body {
+            font-family: verdana;
+            font-size: 18px;
+        }
+        .masInfo {
+            display: none;
+            background-color: #e7e7e7;
+        }
+        .contentDia {
+            border: 1px solid gray;
+            margin: 10px;
+        }
+        .contentDia.activo .masInfo {
+            display: block;
+        }
+        [textoDia-id] {
+            text-align: center;
+            cursor: pointer;
+        }
+*/
+
+ /*Diego-------------------------*/
+/*
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.masInfo{
+    display: none;
+    background-color: aqua;
+}
+.contentTime{
+     border: 1px solid black;
+     margin: 5%;
+}
+contentTime.activo .masInfo{
+    display: block;
+}
+[content-id]{
+    text-align: center;
+    cursor: pointer;
+}
+*/
